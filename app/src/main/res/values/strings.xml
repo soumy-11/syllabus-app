@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">MySecondProject</string>
+    <string name="cse_button">CSE</string>
+    <string name="eee_button">EEE</string>
+    <string name="me_button">ME</string>
+    <string name="ce_button">CE</string>
+
+    <string name="cse_text">
+        1 CSE 2100 Software Development Project I\n
+        2 CSE 2101 Discrete Mathematics\n
+        3 CSE 2102 Sessional Based on CSE 2101\n
+        4 CSE 2103 Numerical Methods\n
+        5 CSE 2104 Sessional Based on CSE 2103\n
+        6 EEE 2151 Analog Electronics\n
+        7 EEE 2152 Sessional Based on EEE 2151\n
+        8 Math 2113 Vector Analysis and Linear Algebra\n
+        9 Hum 2113 Industrial Management and Accountancy\n
+
+    </string>
+
+
+    <string name="eee_text">
+        1 EEE 2100 Electrical Shop Practice\n
+        2 EEE 2103 Electronics II\n
+        3 EEE 2104 Electronics II Sessional\n
+        4 EEE 2105 Electrical Machine I\n
+        5 EEE 2106 Electrical Machine I Sessional\n
+        6 Math 2101 Engg. Mathematics III\n
+        7 ME 2101 Basic Mechanical Engineering\n
+        8 ME 2102 Basic Mechanical Engineering Sessional\n
+        9 IPE 2111 Legal Issues and Management for Engineers\n
+
+    </string>
+
+
+    <string name="me_text">
+        1. Math 2121 Differential Equation\n
+        2. Hum 2121 Accounting and Industrial law\n
+        3. ME 2101 Thermodynamics\n
+        4. ME 2111 Engineering Mechanics-I\n
+        5. ME 2121 Measurement, Quality Control and Materials Handling Sessional Courses\n
+        6. ME 2102 Thermodynamics Sessional\n
+        7. ME 2122 Measurement, Quality Control and Materials Handling Sessional
+        8. ME 2112 Engineering Mechanics-I Sessional Cources\n
+        9. ME 2100 Mechanical Engineering Drawing-II\n
+
+    </string>
+
+
+    <string name="ce_text">
+        1. CE 203 Engineering Materials\n
+        2. CE 211 Mechanics of Material-I\n
+        3. CE 221 Fluid Mechanics-I\n
+        4. Math 201 Mathematics -III\n
+        5. Hum 201 Sociology and Government\n
+        6. CE 204 Engineering Materials Sessional\n
+        7. CE 210 Details of Constructions\n
+        8. CE 222 Fluid Mechanics Sessional -1\n
+
+    </string>
+</resources>
